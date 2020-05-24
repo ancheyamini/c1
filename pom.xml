@@ -55,16 +55,5 @@
     </build>
 	</profile>
 	</profiles>
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>LAPTOP-183H5TUF-releases</name>
-        <url>http://localhost:8081/artifactory/ancheyamini99</url>
-    </repository>
-    <snapshotRepository>
-        <id>central</id>
-        <name>LAPTOP-183H5TUF-snapshots</name>
-        <url>http://localhost:8081/artifactory/ancheyamini99</url>
-    </snapshotRepository>
-	</distributionManagement>
+
 </project>
